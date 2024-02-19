@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://media.licdn.com/dms/image/D5603AQEB2lSjO9WK0g/profile-displayphoto-shrink_400_400/0/1699108659320?e=1714003200&v=beta&t=_xZ-czFHG68g38qtoWEOtSZXdWFX0n_wuKgnsTBIIRQ
-
+![Aaron](https://media.licdn.com/dms/image/D5603AQEB2lSjO9WK0g/profile-displayphoto-shrink_400_400/0/1699108659320?e=1714003200&v=beta&t=_xZ-czFHG68g38qtoWEOtSZXdWFX0n_wuKgnsTBIIRQ
+)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
