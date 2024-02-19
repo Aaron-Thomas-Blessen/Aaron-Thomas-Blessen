@@ -4,7 +4,7 @@
 
 ## About Me
 
-Experienced Member with a demonstrated history of working in the professional training & coaching industry. 
+Experienced Member with a demonstrated history of working in a professional environment. 
 
 Skilled in Flutter, Adobe Illustrator, Python, HTML, Presentations, Cascading Style Sheets (CSS), Workbench, and English language. 
 
