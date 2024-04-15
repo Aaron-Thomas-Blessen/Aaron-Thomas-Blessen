@@ -16,6 +16,10 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 2. **Smart Traffic** - This is a project done to build a Smart traffic system where there will be minimum time waste and the CO2 emissions will be very low. I used Python to make a simulation using Pygame. Link to my project:- https://github.com/Aaron-Thomas-Blessen/Smart_Traffic.git.
 
+## Achievements
+
+- **Gate Qualified:**
+
 ## Skills
 
 - **Programming Languages:** Python, C, Java
