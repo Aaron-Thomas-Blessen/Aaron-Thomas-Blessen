@@ -18,7 +18,7 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 ## Achievements
 
-- **Gate Qualified:**
+- **Gate Qualified:** 511 Rank
 
 ## Skills
 
