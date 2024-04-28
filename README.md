@@ -2,7 +2,7 @@
 
 ![Aaron](https://media.licdn.com/dms/image/D5603AQEB2lSjO9WK0g/profile-displayphoto-shrink_400_400/0/1699108659320?e=1714003200&v=beta&t=_xZ-czFHG68g38qtoWEOtSZXdWFX0n_wuKgnsTBIIRQ)
 
-## About Me
+## About Me 
 
 Experienced Member with a demonstrated history of working in a professional environment. 
 
