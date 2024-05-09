@@ -12,9 +12,11 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 ## Projects
 
-1. **Accident Locations ON Indian Roads** - Made a machine Learning project to find the most accident-prone areas in Bangalore and Chennai. I mainly used Python, GIS, and KNN classifier algorithms in the making of this project. You can find the project here:- https://github.com/Aaron-Thomas-Blessen/intelunnati_TheElites.git.
+1. **Cryptic Canvas** - This tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
-2. **Smart Traffic** - This is a project done to build a Smart traffic system where there will be minimum time waste and the CO2 emissions will be very low. I used Python to make a simulation using Pygame. Link to my project:- https://github.com/Aaron-Thomas-Blessen/Smart_Traffic.git.
+2. **Accident Locations ON Indian Roads** - Made a machine Learning project to find the most accident-prone areas in Bangalore and Chennai. I mainly used Python, GIS, and KNN classifier algorithms in the making of this project. You can find the project here:- https://github.com/Aaron-Thomas-Blessen/intelunnati_TheElites.git.
+
+3. **Smart Traffic** - This is a project done to build a Smart traffic system where there will be minimum time waste and the CO2 emissions will be very low. I used Python to make a simulation using Pygame. Link to my project:- https://github.com/Aaron-Thomas-Blessen/Smart_Traffic.git.
 
 ## Achievements
 
