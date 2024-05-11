@@ -12,11 +12,13 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 ## Projects
 
-1. **Cryptic Canvas** - This tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
+1. **Skill Sync** - A decentralized application (DApp) built on the Aptos blockchain using Move language and Petra Wallet. Tech enthusiasts nowadays tend to fake their Tech Stack or skills acquired on platforms like LinkedIn, GitHub, etc. To overcome this, Skill Sync aims to connect individuals with skills verified using the Zero-Knowledge Protocol to find suitable hackathon partners efficiently.
 
-2. **Accident Locations ON Indian Roads** - Made a machine Learning project to find the most accident-prone areas in Bangalore and Chennai. I mainly used Python, GIS, and KNN classifier algorithms in the making of this project. You can find the project here:- https://github.com/Aaron-Thomas-Blessen/intelunnati_TheElites.git.
+2. **Cryptic Canvas** - This tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
-3. **Smart Traffic** - This is a project done to build a Smart traffic system where there will be minimum time waste and the CO2 emissions will be very low. I used Python to make a simulation using Pygame. Link to my project:- https://github.com/Aaron-Thomas-Blessen/Smart_Traffic.git.
+3. **Accident Locations ON Indian Roads** - Made a machine Learning project to find the most accident-prone areas in Bangalore and Chennai. I mainly used Python, GIS, and KNN classifier algorithms in the making of this project. You can find the project here:- https://github.com/Aaron-Thomas-Blessen/intelunnati_TheElites.git.
+
+4. **Smart Traffic** - This is a project done to build a Smart traffic system where there will be minimum time waste and the CO2 emissions will be very low. I used Python to make a simulation using Pygame. Link to my project:- https://github.com/Aaron-Thomas-Blessen/Smart_Traffic.git.
 
 ## Achievements
 
