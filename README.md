@@ -28,6 +28,7 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 - **Gate Qualified** -  CS Gate Score: 511 Gate Rank: 5101
 - **HackVerse Hackathon First Runner up** - Aptos Track Conducted by SRM Chennai
+- **International Conference on Smart Cyber Physical Systems | Best Paper Award | Christ University (Delhi) 2024** - Data Visualization of Accident Blackspots on Indian Roads-A Case Study on Bangalore and Chennai
 
 ## Skills
 
