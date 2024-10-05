@@ -40,7 +40,7 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 - **President** at Code@Saintgits April 2023 to Present.
 
-- **Core Committee Member** at Cyber Security Club Nov 2022 to Present.
+- **Core Committee Member** at Cyber Security Club Nov 2022 to Aug 2024.
 
 ## Education
 
