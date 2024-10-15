@@ -47,7 +47,7 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 1. Saintgits College of Engineering (Autonomous)
 - Bachelor's degree, Computer Science
 - Nov 2021 - Nov 2025
-- Grade: 8.5
+- Grade: 8.3
 
 2. St Antony's Public School
 - 11th - 12th grade, Science stream
