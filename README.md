@@ -42,6 +42,8 @@ Strong operations professional with a Bachelor's degree focused in Computer and 
 
 - **Core Committee Member** at Cyber Security Club Nov 2022 to Aug 2024.
 
+- **Intern** at ISRO LPSC OCT 2024 to NOV 2024.
+
 ## Education
 
 1. Saintgits College of Engineering (Autonomous)
